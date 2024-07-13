@@ -5,7 +5,8 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
-    "prisma": "^5.15.0"
+    "prisma": "^5.15.0",
+    "twilio": "^5.2.2"
   },
   "name": "tradecraft-server",
   "description": "",
